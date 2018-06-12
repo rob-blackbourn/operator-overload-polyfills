@@ -1,0 +1,25 @@
+{
+  "name": "operator-overload-polyfills",
+  "version": "1.0.0",
+  "description": "Polyfills for operator overloading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rob-blackbourn/operator-overload-polyfills.git"
+  },
+  "keywords": [
+    "operator",
+    "overload",
+    "polyfill",
+    "overloading"
+  ],
+  "author": "Rob Blackbourn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rob-blackbourn/operator-overload-polyfills/issues"
+  },
+  "homepage": "https://github.com/rob-blackbourn/operator-overload-polyfills#readme"
+}
