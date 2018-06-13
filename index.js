@@ -1,3 +1,5 @@
+'babel-operator-overload-plugin disable'
+
 if (!Object.prototype.__add__) {
     Object.prototype.__add__ = function (other) {
       return this + other;
